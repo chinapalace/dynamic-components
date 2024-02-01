@@ -23,7 +23,7 @@ export const AtButton = ({ label, variant = 'PRIMARY', isDisabled = false, onCli
   return (
     <button
       className={`transition-colors px-6 py-2 rounded-md ${variantClasses[variant]} ${
-        isDisabled ? 'bg-gray-300 text-slate-600 cursor-not-allowed pointer-events-none' : ''
+        isDisabled ? 'bg-gray-400 text-slate-600 cursor-not-allowed pointer-events-none' : ''
       }`}
       onClick={isDisabled ? onClick : undefined}
     >
