@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/chinapalace/dynamic-components/compare/v2.0.5...v2.0.0) (2024-02-01)
+
+
+### Features
+
+* **Button:** update color ([338fe10](https://github.com/chinapalace/dynamic-components/commit/338fe10612fdf88d16572aa3aec61465454c1242))
+* **Button:** update color ([bc66d4e](https://github.com/chinapalace/dynamic-components/commit/bc66d4e6880b3ff3096b447c524b807c59323e16))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([22cda05](https://github.com/chinapalace/dynamic-components/commit/22cda05874dd9daf847ce4e99257493800d515be))
+
 ## [2.0.4](https://github.com/IgnacioNMiranda/vite-component-library-template/compare/v2.0.3...v2.0.4) (2023-09-10)
 
 
